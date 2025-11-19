@@ -1,0 +1,20 @@
+{
+  "node": {
+    "40e79a728a9ccb2f756b999a99d793d002fe723b2b": {
+      "workers": {
+        "app/cart/page": {
+          "moduleId": 46821,
+          "async": false,
+          "exportedName": "startCheckoutSession",
+          "filename": "app/actions/stripe.ts"
+        }
+      },
+      "layer": {
+        "app/cart/page": "action-browser"
+      },
+      "exportedName": "startCheckoutSession",
+      "filename": "app/actions/stripe.ts"
+    }
+  },
+  "edge": {}
+}

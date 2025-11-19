@@ -1,0 +1,20 @@
+{
+  "node": {
+    "0010ef3e687496c8a4b536ce7df46cf044ace23e69": {
+      "workers": {
+        "app/orders/page": {
+          "moduleId": 67123,
+          "async": false,
+          "exportedName": "getUserOrders",
+          "filename": "lib/orders.ts"
+        }
+      },
+      "layer": {
+        "app/orders/page": "action-browser"
+      },
+      "exportedName": "getUserOrders",
+      "filename": "lib/orders.ts"
+    }
+  },
+  "edge": {}
+}

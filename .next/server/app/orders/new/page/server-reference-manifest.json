@@ -1,0 +1,35 @@
+{
+  "node": {
+    "0010ef3e687496c8a4b536ce7df46cf044ace23e69": {
+      "workers": {
+        "app/orders/new/page": {
+          "moduleId": 42605,
+          "async": false,
+          "exportedName": "getUserOrders",
+          "filename": "lib/orders.ts"
+        }
+      },
+      "layer": {
+        "app/orders/new/page": "rsc"
+      },
+      "exportedName": "getUserOrders",
+      "filename": "lib/orders.ts"
+    },
+    "40b51e2299398d27a6ad27458973eb24c7aef78e26": {
+      "workers": {
+        "app/orders/new/page": {
+          "moduleId": 42605,
+          "async": false,
+          "exportedName": "getOrderById",
+          "filename": "lib/orders.ts"
+        }
+      },
+      "layer": {
+        "app/orders/new/page": "rsc"
+      },
+      "exportedName": "getOrderById",
+      "filename": "lib/orders.ts"
+    }
+  },
+  "edge": {}
+}
