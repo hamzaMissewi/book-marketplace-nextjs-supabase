@@ -8,10 +8,10 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BookStore - Learn & Grow",
+  title: "BookStore - Buy IT & Business Books to Learn & Grow",
   description:
     "Discover and purchase books on Development, AI, Cloud Computing, and Business",
-  generator: "v0.app",
+  creator: "Hamza Missaoui",
   icons: {
     icon: [
       {
